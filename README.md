@@ -1,1 +1,1 @@
-# SC_302_Documentacion_NA_Grupo-No.8
+Esta	es	mi	primera	práctica	con	GitHub.	
